@@ -1,4 +1,4 @@
-Misc - フラグの例は？ - 10points
+Misc - フラグの例は？ - 10 points
 
 # H0W 2 S0lV3 7HIS
 
