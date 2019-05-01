@@ -6,7 +6,7 @@ Forensic - 新元号発表 - 100 points
 So click that and get the file `newera.pdf`.  
 And if you open that, you'll see this.
 
-![before]()
+![before](https://github.com/JPNYKW/SECCON-Reiwa-CTF/blob/master/image/newera_before.PNG)
 
 Hummm... I see the fragment of the QR code in under the man in the left.  
 I want see the QR code. I hope he will run away from there **as quickly**.
