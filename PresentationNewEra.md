@@ -15,7 +15,7 @@ I want see the QR code. I hope he will run away from there **as quickly**.
 When that I used [Adobe Acrobat](https://get.adobe.com/reader/).  
 And, drag the man to away!  
 
-![run away]()
+![run away](https://github.com/JPNYKW/SECCON-Reiwa-CTF/blob/master/image/newera_run_away.PNG)
 
 Oh, wait. Oops.  
 That QR is not perfect. the center looks like the shape of Reiwa.  
