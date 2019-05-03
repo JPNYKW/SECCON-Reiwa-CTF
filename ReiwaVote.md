@@ -17,3 +17,7 @@ Next, I tried click the button of decide.
 I didn't do anything.
 
 ![FAILED]()
+
+```
+Flag: SECCON{e32afd2cf7b98e41cf70fed}
+```
